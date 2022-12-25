@@ -1,4 +1,4 @@
 #linnx-resolusi
-pelajari Bereaksi js
+Learn React js
 learn Api
 Projects Api
