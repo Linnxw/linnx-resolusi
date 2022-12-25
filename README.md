@@ -1,0 +1,1 @@
+# linnx-resolusi
