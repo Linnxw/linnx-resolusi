@@ -1,0 +1,2 @@
+#linnx-resolusi
+learn React js
